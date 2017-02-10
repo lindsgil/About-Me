@@ -1,7 +1,13 @@
-* {
-  background-color:	#0AA979;
-}
 
 p {
   font-family: Arial;
+}
+
+#titleHeader {
+  border: 2px solid black;
+  text-align: center;
+}
+
+* {
+  background-color:	#0AA979;
 }
